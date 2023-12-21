@@ -171,7 +171,7 @@ const Resume = () => {
             Fullstack Javascript
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-          List, Tuple, Dictionary, Loop,Function, Exception, OOP, Modules
+          List, Tuple, Dictionary, Loop,Function, Exception, OOP, Modules, Try Except
           </Typography>
           
         </Box>
